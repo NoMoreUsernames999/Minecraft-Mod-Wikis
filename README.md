@@ -7,7 +7,7 @@
 This repository contains links to various guides and wikis created by me or ported from wikis created by the devs themselves. There are many mods which lack documentation or who's existing documentation was sparse and/ or difficult to understand.\
 To view a wiki, select one of the links below:
 
-* [Recurrent Complex](https://github.com/NoMoreUsernames999/Recurrent-Complex-Wiki/main/README.md).
+* [Recurrent Complex](https://github.com/NoMoreUsernames999/Recurrent-Complex-Wiki/).
 * Just Enough Dimensions (WIP).
 * Dimensional Control (WIP). 
 
